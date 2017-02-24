@@ -1,0 +1,3 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\RemoveNegativeReverse\bin\Debug\RemoveNegativeReverse.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\RemoveNegativeReverse\obj\Debug\RemoveNegativeReverse.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\RemoveNegativeReverse\obj\Debug\RemoveNegativeReverse.pdb

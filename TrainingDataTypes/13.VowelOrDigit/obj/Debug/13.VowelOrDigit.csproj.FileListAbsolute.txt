@@ -1,0 +1,1 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.pdb

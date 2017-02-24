@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\01.PracticeIntegerNumber\bin\Debug\01.PracticeIntegerNumber.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\01.PracticeIntegerNumber\bin\Debug\01.PracticeIntegerNumber.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\01.PracticeIntegerNumber\bin\Debug\01.PracticeIntegerNumber.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\01.PracticeIntegerNumber\obj\Debug\01.PracticeIntegerNumber.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\01.PracticeIntegerNumber\obj\Debug\01.PracticeIntegerNumber.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\01.PracticeIntegerNumber\obj\Debug\01.PracticeIntegerNumber.pdb

@@ -1,0 +1,9 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation09June\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation09June\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation09June\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation09June\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation09June\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation09June\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Programming Fundamentals\TestPreparation09June\04.PopulationAggregation\bin\Debug\04.PopulationAggregation.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Programming Fundamentals\TestPreparation09June\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Programming Fundamentals\TestPreparation09June\04.PopulationAggregation\obj\Debug\04.PopulationAggregation.pdb

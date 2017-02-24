@@ -1,0 +1,5 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\TransportPrice\bin\Debug\TransportPrice.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\TransportPrice\bin\Debug\TransportPrice.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\TransportPrice\bin\Debug\TransportPrice.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\TransportPrice\obj\Debug\TransportPrice.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\TransportPrice\obj\Debug\TransportPrice.pdb

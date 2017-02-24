@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Test24AprilProgrammingBasics\ArrayModifier\bin\Debug\ArrayModifier.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Test24AprilProgrammingBasics\ArrayModifier\bin\Debug\ArrayModifier.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Test24AprilProgrammingBasics\ArrayModifier\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Test24AprilProgrammingBasics\ArrayModifier\obj\Debug\ArrayModifier.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Test24AprilProgrammingBasics\ArrayModifier\obj\Debug\ArrayModifier.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\06.CountNums\bin\Debug\06.CountNums.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\06.CountNums\bin\Debug\06.CountNums.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\06.CountNums\bin\Debug\06.CountNums.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\06.CountNums\obj\Debug\06.CountNums.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\06.CountNums\obj\Debug\06.CountNums.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\06.CountNums\obj\Debug\06.CountNums.pdb

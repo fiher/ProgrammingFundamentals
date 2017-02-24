@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\Pyramid-Of-Numbers2\bin\Debug\Pyramid-Of-Numbers2.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\Pyramid-Of-Numbers2\bin\Debug\Pyramid-Of-Numbers2.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\Pyramid-Of-Numbers2\bin\Debug\Pyramid-Of-Numbers2.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\Pyramid-Of-Numbers2\obj\Debug\Pyramid-Of-Numbers2.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\Pyramid-Of-Numbers2\obj\Debug\Pyramid-Of-Numbers2.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\Pyramid-Of-Numbers2\obj\Debug\Pyramid-Of-Numbers2.pdb

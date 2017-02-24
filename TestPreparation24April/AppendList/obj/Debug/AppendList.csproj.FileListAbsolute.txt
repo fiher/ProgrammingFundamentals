@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\AppendList\bin\Debug\AppendList.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\AppendList\bin\Debug\AppendList.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\AppendList\bin\Debug\AppendList.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\AppendList\obj\Debug\AppendList.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\AppendList\obj\Debug\AppendList.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\AppendList\obj\Debug\AppendList.pdb

@@ -1,0 +1,2 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Rotate-Matrix\bin\Debug\Rotate-Matrix.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\Rotate-Matrix\bin\Debug\Rotate-Matrix.exe.config

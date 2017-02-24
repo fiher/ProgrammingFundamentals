@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Training\Histogram\bin\Debug\Histogram.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Training\Histogram\bin\Debug\Histogram.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Training\Histogram\bin\Debug\Histogram.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Training\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\Training\Histogram\obj\Debug\Histogram.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Training\Histogram\obj\Debug\Histogram.pdb

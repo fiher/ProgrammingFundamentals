@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EnterEvenNum\bin\Debug\EnterEvenNum.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EnterEvenNum\bin\Debug\EnterEvenNum.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EnterEvenNum\bin\Debug\EnterEvenNum.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EnterEvenNum\obj\Debug\EnterEvenNum.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EnterEvenNum\obj\Debug\EnterEvenNum.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\EnterEvenNum\obj\Debug\EnterEvenNum.pdb

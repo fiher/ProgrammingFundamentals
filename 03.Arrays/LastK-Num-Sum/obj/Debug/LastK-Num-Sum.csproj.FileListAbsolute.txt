@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\LastK-Num-Sum\bin\Debug\LastK-Num-Sum.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\LastK-Num-Sum\obj\Debug\LastK-Num-Sum.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\LastK-Num-Sum\bin\Debug\LastK-Num-Sum.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\LastK-Num-Sum\bin\Debug\LastK-Num-Sum.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\LastK-Num-Sum\obj\Debug\LastK-Num-Sum.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\LastK-Num-Sum\obj\Debug\LastK-Num-Sum.pdb

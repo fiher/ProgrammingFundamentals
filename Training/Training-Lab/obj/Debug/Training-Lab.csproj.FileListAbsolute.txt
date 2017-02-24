@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Training-Lab\bin\Debug\Training-Lab.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Training-Lab\bin\Debug\Training-Lab.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Training-Lab\bin\Debug\Training-Lab.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Training-Lab\obj\Debug\Training-Lab.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Training-Lab\obj\Debug\Training-Lab.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Training-Lab\obj\Debug\Training-Lab.pdb

@@ -1,0 +1,2 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Programming Fundamentals\03.Arrays\DayOfWeek\bin\Debug\DayOfWeek.exe.config

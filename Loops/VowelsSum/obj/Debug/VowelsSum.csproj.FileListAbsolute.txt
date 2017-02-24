@@ -1,0 +1,1 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Loops\VowelsSum\bin\Debug\VowelsSum.exe.config

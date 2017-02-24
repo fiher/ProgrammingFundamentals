@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation09June\03.TriggeredCell\bin\Debug\03.TriggeredCell.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation09June\03.TriggeredCell\bin\Debug\03.TriggeredCell.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation09June\03.TriggeredCell\bin\Debug\03.TriggeredCell.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation09June\03.TriggeredCell\obj\Debug\03.TargetMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation09June\03.TriggeredCell\obj\Debug\03.TriggeredCell.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation09June\03.TriggeredCell\obj\Debug\03.TriggeredCell.pdb

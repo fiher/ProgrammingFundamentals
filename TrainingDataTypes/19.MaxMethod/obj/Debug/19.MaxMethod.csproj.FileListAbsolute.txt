@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\19.MaxMethod\bin\Debug\19.MaxMethod.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\19.MaxMethod\bin\Debug\19.MaxMethod.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\19.MaxMethod\bin\Debug\19.MaxMethod.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\19.MaxMethod\obj\Debug\19.MaxMethod.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\19.MaxMethod\obj\Debug\19.MaxMethod.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\19.MaxMethod\obj\Debug\19.MaxMethod.pdb

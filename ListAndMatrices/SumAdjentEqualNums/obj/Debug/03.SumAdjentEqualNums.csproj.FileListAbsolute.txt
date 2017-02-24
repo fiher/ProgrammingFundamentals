@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\bin\Debug\SumAdjentEqualNums.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\bin\Debug\SumAdjentEqualNums.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\bin\Debug\SumAdjentEqualNums.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\obj\Debug\03.SumAdjentEqualNums.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\obj\Debug\SumAdjentEqualNums.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\obj\Debug\SumAdjentEqualNums.pdb

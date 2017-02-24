@@ -1,0 +1,2 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\SumAdjentEqualNums\bin\Debug\SumAdjentEqualNums.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\SumAdjentEqualNums\bin\Debug\SumAdjentEqualNums.exe.config

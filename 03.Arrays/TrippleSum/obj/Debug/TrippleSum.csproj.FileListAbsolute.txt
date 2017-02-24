@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\TrippleSum\bin\Debug\TrippleSum.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\TrippleSum\bin\Debug\TrippleSum.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\TrippleSum\bin\Debug\TrippleSum.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\TrippleSum\obj\Debug\TrippleSum.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\TrippleSum\obj\Debug\TrippleSum.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\TrippleSum\obj\Debug\TrippleSum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\05.SortNums\bin\Debug\05.SortNums.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\05.SortNums\bin\Debug\05.SortNums.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\05.SortNums\bin\Debug\05.SortNums.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\05.SortNums\obj\Debug\05.SortNums.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\05.SortNums\obj\Debug\05.SortNums.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\05.SortNums\obj\Debug\05.SortNums.pdb

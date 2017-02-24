@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\SweetDesert\bin\Debug\SweetDesert.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\SweetDesert\bin\Debug\SweetDesert.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\SweetDesert\bin\Debug\SweetDesert.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\SweetDesert\obj\Debug\SweetDesert.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\SweetDesert\obj\Debug\SweetDesert.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\SweetDesert\obj\Debug\SweetDesert.pdb

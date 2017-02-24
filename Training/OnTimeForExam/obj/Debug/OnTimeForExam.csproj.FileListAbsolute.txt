@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\OnTimeForExam\bin\Debug\OnTimeForExam.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\OnTimeForExam\bin\Debug\OnTimeForExam.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\OnTimeForExam\bin\Debug\OnTimeForExam.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\OnTimeForExam\obj\Debug\OnTimeForExam.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\OnTimeForExam\obj\Debug\OnTimeForExam.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\OnTimeForExam\obj\Debug\OnTimeForExam.pdb

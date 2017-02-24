@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\21.NumbersInReversedOrder\bin\Debug\21.NumbersInReversedOrder.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TrainingDataTypes\21.NumbersInReversedOrder\obj\Debug\21.NumbersInReversedOrder.pdb

@@ -1,0 +1,9 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Matrix-of-Letters\bin\Debug\Matrix-of-Letters.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Matrix-of-Letters\bin\Debug\Matrix-of-Letters.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Matrix-of-Letters\bin\Debug\Matrix-of-Letters.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Matrix-of-Letters\obj\Debug\Matrix-of-Letters.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Matrix-of-Letters\obj\Debug\Matrix-of-Letters.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\03-April\Matrix-of-Letters\obj\Debug\Matrix-of-Letters.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\Matrix-of-Letters\bin\Debug\Matrix-of-Letters.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\Matrix-of-Letters\obj\Debug\Matrix-of-Letters.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\ListAndMatrices\Matrix-of-Letters\obj\Debug\Matrix-of-Letters.pdb

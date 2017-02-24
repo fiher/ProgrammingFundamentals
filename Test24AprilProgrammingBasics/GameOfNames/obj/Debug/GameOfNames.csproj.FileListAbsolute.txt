@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\GameOfNames\bin\Debug\GameOfNames.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\GameOfNames\bin\Debug\GameOfNames.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\GameOfNames\bin\Debug\GameOfNames.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\GameOfNames\obj\Debug\GameOfNames.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\GameOfNames\obj\Debug\GameOfNames.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache

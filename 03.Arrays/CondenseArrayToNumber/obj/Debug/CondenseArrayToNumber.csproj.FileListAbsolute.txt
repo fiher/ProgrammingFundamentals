@@ -1,0 +1,2 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Programming Fundamentals\03.Arrays\CondenseArrayToNumber\bin\Debug\CondenseArrayToNumber.exe.config

@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Arrays\Sum,Min,Max,Frist,Average\bin\Debug\Sum,Min,Max,Frist,Average.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\Sum,Min,Max,Frist,Average\bin\Debug\Sum,Min,Max,Frist,Average.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\Sum,Min,Max,Frist,Average\bin\Debug\Sum,Min,Max,Frist,Average.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\Sum,Min,Max,Frist,Average\obj\Debug\Sum,Min,Max,Frist,Average.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\Sum,Min,Max,Frist,Average\obj\Debug\Sum,Min,Max,Frist,Average.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Arrays\Sum,Min,Max,Frist,Average\obj\Debug\Sum,Min,Max,Frist,Average.pdb

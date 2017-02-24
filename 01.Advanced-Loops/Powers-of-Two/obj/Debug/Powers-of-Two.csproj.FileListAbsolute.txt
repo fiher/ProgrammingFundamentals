@@ -1,0 +1,5 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\Powers-of-Two\bin\Debug\Powers-of-Two.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\Powers-of-Two\bin\Debug\Powers-of-Two.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\Powers-of-Two\bin\Debug\Powers-of-Two.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\Powers-of-Two\obj\Debug\Powers-of-Two.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\Powers-of-Two\obj\Debug\Powers-of-Two.pdb

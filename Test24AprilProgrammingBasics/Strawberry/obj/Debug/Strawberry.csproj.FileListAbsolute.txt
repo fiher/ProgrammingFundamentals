@@ -1,0 +1,5 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\Strawberry\bin\Debug\Strawberry.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\Strawberry\bin\Debug\Strawberry.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\Strawberry\bin\Debug\Strawberry.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\Strawberry\obj\Debug\Strawberry.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Test24AprilProgrammingBasics\Strawberry\obj\Debug\Strawberry.pdb

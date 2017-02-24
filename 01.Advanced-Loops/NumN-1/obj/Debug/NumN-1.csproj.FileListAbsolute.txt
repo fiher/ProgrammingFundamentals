@@ -1,0 +1,5 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\NumN-1\bin\Debug\NumN-1.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\NumN-1\bin\Debug\NumN-1.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\NumN-1\bin\Debug\NumN-1.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\NumN-1\obj\Debug\NumN-1.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\Advanced-Loops\NumN-1\obj\Debug\NumN-1.pdb

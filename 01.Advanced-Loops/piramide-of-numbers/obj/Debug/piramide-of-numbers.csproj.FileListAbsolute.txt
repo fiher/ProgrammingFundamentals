@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\piramide-of-numbers\bin\Debug\piramide-of-numbers.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\piramide-of-numbers\bin\Debug\piramide-of-numbers.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\piramide-of-numbers\bin\Debug\piramide-of-numbers.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\piramide-of-numbers\obj\Debug\piramide-of-numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\piramide-of-numbers\obj\Debug\piramide-of-numbers.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Advanced-Loops\piramide-of-numbers\obj\Debug\piramide-of-numbers.pdb

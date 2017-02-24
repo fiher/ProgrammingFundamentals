@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\ListAandMatrix-RemoveNegativeAndReverse\bin\Debug\ListAandMatrix-RemoveNegativeAndReverse.exe.config
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\ListAandMatrix-RemoveNegativeAndReverse\bin\Debug\ListAandMatrix-RemoveNegativeAndReverse.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\ListAandMatrix-RemoveNegativeAndReverse\bin\Debug\ListAandMatrix-RemoveNegativeAndReverse.pdb
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\ListAandMatrix-RemoveNegativeAndReverse\obj\Debug\ListAandMatrix-RemoveNegativeAndReverse.csprojResolveAssemblyReference.cache
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\ListAandMatrix-RemoveNegativeAndReverse\obj\Debug\ListAandMatrix-RemoveNegativeAndReverse.exe
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation24April\ListAandMatrix-RemoveNegativeAndReverse\obj\Debug\ListAandMatrix-RemoveNegativeAndReverse.pdb

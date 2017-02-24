@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation24April\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation24April\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation24April\SumAdjacentEqualNumbers\bin\Debug\SumAdjacentEqualNumbers.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation24April\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation24April\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation24April\SumAdjacentEqualNumbers\obj\Debug\SumAdjacentEqualNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\lucifer\documents\visual studio 2015\Projects\TestPreparation10June\SoftUniAirLine\bin\Debug\SoftUniAirLine.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation10June\SoftUniAirLine\bin\Debug\SoftUniAirLine.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation10June\SoftUniAirLine\bin\Debug\SoftUniAirLine.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation10June\SoftUniAirLine\obj\Debug\SoftUniAirLine.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation10June\SoftUniAirLine\obj\Debug\SoftUniAirLine.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\TestPreparation10June\SoftUniAirLine\obj\Debug\SoftUniAirLine.pdb

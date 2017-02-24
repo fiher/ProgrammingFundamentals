@@ -1,0 +1,6 @@
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Draw-Fort\bin\Debug\Draw-Fort.exe.config
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Draw-Fort\bin\Debug\Draw-Fort.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Draw-Fort\bin\Debug\Draw-Fort.pdb
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Draw-Fort\obj\Debug\Draw-Fort.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Draw-Fort\obj\Debug\Draw-Fort.exe
+C:\Users\Lucifer\Documents\Visual Studio 2015\Projects\Training\Draw-Fort\obj\Debug\Draw-Fort.pdb
